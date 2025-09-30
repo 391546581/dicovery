@@ -12,3 +12,7 @@ https://bgithub.xyz/ranuts/document 浏览器操作office
 
 
 https://github.com/immersive-translate/old-immersive-translate    immersive-translate
+
+
+https://gitlab.com/uploads/-/system/personal_snippet/4881399/6a0bcf559f70fff4c363e1f035aa0733/EKELJKKNCHEHAKCKHGHHKBALNNMGNCHE_1_8_0_0.crx     illa-helper插件
+https://gitlab.com/uploads/-/system/personal_snippet/4881399/330a416fb025b56c6a0998122ee200bd/image.png
