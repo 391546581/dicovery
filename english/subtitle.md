@@ -16,3 +16,9 @@ https://github.com/immersive-translate/old-immersive-translate    immersive-tran
 
 https://gitlab.com/uploads/-/system/personal_snippet/4881399/6a0bcf559f70fff4c363e1f035aa0733/EKELJKKNCHEHAKCKHGHHKBALNNMGNCHE_1_8_0_0.crx     illa-helper插件
 https://gitlab.com/uploads/-/system/personal_snippet/4881399/330a416fb025b56c6a0998122ee200bd/image.png
+
+
+https://bgithub.xyz/xiao-zaiyi/illa-helper?tab=readme-ov-file
+https://chromewebstore.google.com/detail/%E6%B5%B8%E5%85%A5%E5%BC%8F%E5%AD%A6%E8%AF%AD%E8%A8%80%E5%8A%A9%E6%89%8Billa-helper/ekeljkknchehakckhghhkbalnnmgnche
+https://www.crxsoso.com/
+
