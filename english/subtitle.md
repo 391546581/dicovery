@@ -5,3 +5,10 @@
 3.微软实时字幕如果你的电脑是Windows系统，可以试试系统中自带的辅助功能~电脑中的辅助功能就有【实时字幕】功能，
 需要在Win11系统下才有的，算是一个新功能了，需要我们在设置中，找到辅助功能，手动开启它才可以使用。
 开启后，它一般就是显示在视频或音频的顶部，你可以将鼠标指针悬停在字幕上，就可以暂停音视频了，还可以通过单击字幕的方式跳转到相应部分的内容。
+
+
+
+https://bgithub.xyz/ranuts/document 浏览器操作office
+
+
+https://github.com/immersive-translate/old-immersive-translate    immersive-translate
